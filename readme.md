@@ -42,9 +42,9 @@ $ php artisan migrate
 
 Configurar variables de entorno, para el servicio placetopay en el archivo .env escribir las siguientes variables de entorno con sus valores correspondientes
 ```sh
-$ PLACETOPAY_LOGIN= VALUE LOGIN
-$ PLACETOPAY_SECRETKEY = VALUE SECRET KEY
-$ PLACETOPAY_API = URL WEBSERVICE
+    PLACETOPAY_LOGIN= VALUE LOGIN
+    PLACETOPAY_SECRETKEY = VALUE SECRET KEY
+    PLACETOPAY_API = URL WEBSERVICE
 ```
 
 #### Ejecutar el proyecto
